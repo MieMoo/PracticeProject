@@ -25,3 +25,5 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+Console.WriteLine("GET THE FUCK OUT OF HEAD SO LONG SUCKER");

@@ -27,3 +27,4 @@ app.MapControllerRoute(
 app.Run();
 
 Console.WriteLine("GET THE FUCK OUT OF HEAD SO LONG SUCKER");
+Console.WriteLine("GET YOUR FINGERS OUT OF MY HAIR YOURE GONE SUCKER")
